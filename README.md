@@ -1,1 +1,1 @@
-# Andela_MMM-Config
+# MMM-Config
